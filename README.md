@@ -21,7 +21,7 @@
 ### 실무로 배우는 생성형AI & 클라우드 서비스 개발 전문가 과정 (GPT & LLM 활용)
 
 - **훈련기간** 2026.04.21 ~ 2026.11.02 (5회차)
-- **고용24 과정 정보** [바로가기 →](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20250000501370&tracseTme=5&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020027783&tracseReqstsCd=&focusId=)
+- **고용24 과정 정보** [\[바로가기\]](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20250000501370&tracseTme=5&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020027783&tracseReqstsCd=&focusId=)
 
 <img src="http://nakja.co.kr/images/myinfo/kosmo04.png" alt="생성형AI & 클라우드 과정 5회차 만족도" width="800">
 
@@ -30,7 +30,7 @@
 ### 빅데이터 서비스 구현을 위한 자바 파이썬 (Java, Python) 개발자 과정 · 6회차
 
 - **훈련기간** 2025.09.16 ~ 2026.03.17 (6회차)
-- **고용24 과정 정보** [바로가기 →](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20240000498081&tracseTme=6&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020027783&tracseReqstsCd=&focusId=)
+- **고용24 과정 정보** [\[바로가기\]](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20240000498081&tracseTme=6&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020027783&tracseReqstsCd=&focusId=)
 
 <img src="http://nakja.co.kr/images/myinfo/kosmo03.png" alt="자바 파이썬 개발자 과정 6회차 만족도" width="800">
 
@@ -39,7 +39,7 @@
 ### 빅데이터 서비스 구현을 위한 자바 파이썬 (Java, Python) 개발자 과정 · 3회차
 
 - **훈련기간** 2025.03.06 ~ 2025.08.27 (3회차)
-- **고용24 과정 정보** [바로가기 →](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20240000498081&tracseTme=3&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020027783&tracseReqstsCd=&focusId=)
+- **고용24 과정 정보** [\[바로가기\]](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20240000498081&tracseTme=3&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020027783&tracseReqstsCd=&focusId=)
 
 <img src="http://nakja.co.kr/images/myinfo/kosmo02.png" alt="자바 파이썬 개발자 과정 3회차 만족도" width="800">
 
@@ -48,7 +48,7 @@
 ### 빅데이터기반 인공지능 융합 서비스 개발자
 
 - **훈련기간** 2024.08.29 ~ 2025.02.27 (11회차)
-- **고용24 과정 정보** [바로가기 →](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20210000328550&tracseTme=11&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020027783&tracseReqstsCd=&focusId=)
+- **고용24 과정 정보** [\[바로가기\]](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20210000328550&tracseTme=11&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020027783&tracseReqstsCd=&focusId=)
 
 <img src="http://nakja.co.kr/images/myinfo/kosmo01.png" alt="빅데이터기반 인공지능 융합 과정 11회차 만족도" width="800">
 
