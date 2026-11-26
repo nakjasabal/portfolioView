@@ -59,26 +59,38 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://product.kyobobook.co.kr/detail/S000218232996">
-        <img src="http://nakja.co.kr/images/myinfo/books-jsp.jpg" alt="성낙현의 JSP 웹프로그래밍" width="220">
+      <a href="https://product.kyobobook.co.kr/detail/S000208469948">
+        <img src="http://nakja.co.kr/images/myinfo/books-jsp.jpg" alt="Must Have 성낙현의 JSP 자바 웹 프로그래밍" width="600">
       </a>
     </td>
-    <td align="center" width="50%">
-      <b>성낙현의 JSP 웹프로그래밍</b>
+    <td width="50%">
+      <b>Must Have 성낙현의 JSP 자바 웹 프로그래밍 (2판)</b>
       <br>
-      <a href="https://product.kyobobook.co.kr/detail/S000218232996">교보문고 바로가기</a>
+      골든래빗 · 2023.08 · 688쪽
+      <br><br>
+      자바 웹 개발자로 첫발을 내딛는 입문자를 위한 책입니다. JSP·서블릿 기초에서 시작해 실무에서 주로 쓰는 기능을 중심으로 '기초 → 레벨업 → 현업 스킬' 순서로 구성했습니다.
+      <br><br>
+      게시판과 페이징, 모델2(MVC 패턴), 웹소켓 채팅, 이메일 발송, 오픈 API 활용, 배포까지 프로젝트 비중을 높여 이론을 실무에 바로 적용해 보도록 했습니다. 2판은 JDK 17 환경을 기준으로 다중 파일 업로드와 필터·리스너 내용을 보강했습니다.
+      <br><br>
+      <a href="https://product.kyobobook.co.kr/detail/S000208469948">교보문고 바로가기</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://product.kyobobook.co.kr/detail/S000208469948">
-        <img src="http://nakja.co.kr/images/myinfo/books-react.jpg" alt="리액트 잘하는 개발자 되기" width="220">
+      <a href="https://product.kyobobook.co.kr/detail/S000218232996">
+        <img src="http://nakja.co.kr/images/myinfo/books-react.jpg" alt="리액트 잘하는 개발자 되기" width="600">
       </a>
     </td>
-    <td align="center" width="50%">
+    <td width="50%">
       <b>리액트 잘하는 개발자 되기</b>
       <br>
-      <a href="https://product.kyobobook.co.kr/detail/S000208469948">교보문고 바로가기</a>
+      골든래빗 · 2025.11 · 492쪽
+      <br><br>
+      리액트 입문자가 실력 있는 프론트엔드 개발자로 성장하도록 돕는 책입니다. 클라이언트·서버 동작 방식, 브라우저 렌더링, SPA·CSR·SSR·SSG 같은 웹의 기본 원리부터 다져 리액트를 원리 중심으로 이해하게 합니다.
+      <br><br>
+      컴포넌트·프롭스·스테이트부터 성능 최적화 훅, 리덕스 툴킷·주스탠드 전역 상태 관리까지 40여 개 예제로 익히고, 게시판·스코어보드·카카오톡 앱을 직접 만들며 파이어베이스 연동과 깃허브 배포까지 경험합니다.
+      <br><br>
+      <a href="https://product.kyobobook.co.kr/detail/S000218232996">교보문고 바로가기</a>
     </td>
   </tr>
 </table>
