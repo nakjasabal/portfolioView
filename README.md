@@ -95,7 +95,29 @@
   </tr>
 </table>
 
+<br>
 
+## 🎥 온라인 강의
 
-
-       
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.inflearn.com/course/react-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%90%98%EA%B8%B0?cid=339290">
+        <img src="https://cdn.inflearn.com/public/files/courses/339290/cover/01kbpgecpmyg4m7cx8nwb25esm" alt="React 잘하는 개발자되기 인프런 강의" width="600">
+      </a>
+    </td>
+    <td width="50%">
+      <b>React 잘하는 개발자되기</b>
+      <br>
+      인프런 · 2025.10 공개 · 40강 (11시간 13분)
+      <br>
+      ⭐ 5.0 (수강평 12개) · 수강생 90명 <sub>(2026.11 기준)</sub>
+      <br><br>
+      『리액트 잘하는 개발자 되기』의 예제를 바탕으로 만든 실전형 리액트 강의입니다. Vite 프로젝트 생성부터 컴포넌트, 상태 관리, 라우팅, 생명주기, REST API 통신까지 핵심 기술을 예제 중심으로 설명합니다.
+      <br><br>
+      리덕스 툴킷, 주스탠드, 파이어베이스(Firestore) 등 리액트 생태계의 주요 도구를 함께 다루며, REST API를 연동한 게시판을 만들어 GitHub Pages로 배포하는 과정까지 진행합니다.
+      <br><br>
+      <a href="https://www.inflearn.com/course/react-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%90%98%EA%B8%B0?cid=339290">인프런 바로가기</a>
+    </td>
+  </tr>
+</table>
