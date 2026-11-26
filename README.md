@@ -1,6 +1,6 @@
 # 성낙현 | IT 직업훈련 기술·전문강사
 
-> 웹·앱 개발 현업 10년, IT 직업훈련 강의 11년.
+> 웹·앱 개발 현업 13년, IT 직업훈련 강의 11년.
 > 현장의 기준으로 가르치는 강사입니다.
 
 <br>
@@ -62,19 +62,28 @@
       <a href="https://product.kyobobook.co.kr/detail/S000218232996">
         <img src="http://nakja.co.kr/images/myinfo/books-jsp.jpg" alt="성낙현의 JSP 웹프로그래밍" width="220">
       </a>
-      <br><br>
+    </td>
+    <td align="center" width="50%">
       <b>성낙현의 JSP 웹프로그래밍</b>
       <br>
-      <a href="https://product.kyobobook.co.kr/detail/S000218232996">교보문고 바로가기 →</a>
+      <a href="https://product.kyobobook.co.kr/detail/S000218232996">교보문고 바로가기</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://product.kyobobook.co.kr/detail/S000208469948">
         <img src="http://nakja.co.kr/images/myinfo/books-react.jpg" alt="리액트 잘하는 개발자 되기" width="220">
       </a>
-      <br><br>
+    </td>
+    <td align="center" width="50%">
       <b>리액트 잘하는 개발자 되기</b>
       <br>
-      <a href="https://product.kyobobook.co.kr/detail/S000208469948">교보문고 바로가기 →</a>
+      <a href="https://product.kyobobook.co.kr/detail/S000208469948">교보문고 바로가기</a>
     </td>
   </tr>
 </table>
+
+
+
+
+       
